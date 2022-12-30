@@ -6,17 +6,16 @@
 [![NPM Downloads](https://img.shields.io/npm/dt/dark-mode-switch.svg)](https://www.npmjs.com/package/dark-mode-switch)
 
 # 🌓 Dark Mode Switch
-
-Add a dark-mode theme toggle with a Bootstrap Custom Switch.
-
-- Uses local storage to save preference
-- Only 383 Bytes minified and gzipped!
+Website ini dapat mengubah interface user dalam sekali klik
+Kelompok 6:
+1207050025 - Deta Triandini
+1207050038 - Faza Mohamad Farsyafat
+1207050039 - Fikri Taufiqurrahman
 
 ## Quick start
 
 Several quick start options are available:
 
-- [Download the latest release](https://github.com/coliff/dark-mode-switch/archive/v1.0.0.zip)
 - Clone the repo `git clone https://github.com/coliff/dark-mode-switch.git`
 - Install with [npm](https://www.npmjs.com/package/dark-mode-switch) `npm install dark-mode-switch`
 - Install with [yarn](https://yarnpkg.com/en/package/dark-mode-switch) `yarn add dark-mode-switch`
@@ -57,10 +56,6 @@ Turning dark mode on will add `data-theme="dark"` to the `body` tag. You can use
   color: #eee;
 }
 ```
-
-## Demo
-
-[Bootstrap 5 Demo page](https://coliff.github.io/dark-mode-switch/index.html)
 
 ## Browser Support
 
